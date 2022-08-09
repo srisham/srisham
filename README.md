@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on wizlightcpp
-- 🌱 I’m currently learning Netlink, Matter (Project CHIP)
-- 👯 I’m looking to collaborate on Matter protocol
+- 🌱 I’m currently learning Home Awareness, Matter (Project CHIP)
+- 👯 I’m looking to collaborate on Matter
 
 <!--
 **srisham/srisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
