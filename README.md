@@ -8,7 +8,7 @@
 - 💬 Ask me about C, C++
 - 👨‍💻 All of my personal projects are available [here](https://github.com/srisham)
 
-## Skills that I interested in
+## Skills that I am interested in
 #### C, C++, Python
 
 
