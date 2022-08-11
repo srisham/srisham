@@ -1,6 +1,5 @@
-## Hi there 👋
-
-### I'm Sri Balaji S, a passionate embedded developer
+## Hi 👋,  I'm Sri Balaji S
+#### A passionate embedded developer
 
 ## Work
 - 🔭 I’m currently working on [wizlightcpp](https://github.com/srisham/wizlightcpp)
@@ -9,7 +8,7 @@
 - 💬 Ask me about C, C++
 - 👨‍💻 All of my personal projects are available [here](https://github.com/srisham)
 
-## Skills
+## Skills that I interested in
 #### C, C++, Python
 
 
