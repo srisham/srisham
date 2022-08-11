@@ -4,9 +4,8 @@
 
 ## Work
 - 🔭 I’m currently working on [wizlightcpp](https://github.com/srisham/wizlightcpp)
-- 🌱 I’m currently learning Iot, Home Awareness, [Matter](https://github.com/project-chip/connectedhomeip)
-- 👯 I’m looking to collaborate on Matter
-- 🌱 I’m currently learning Design patterns, Frameworks
+- 🌱 I’m currently learning Iot, Home Awareness, Design patterns
+- 👯 I’m looking to collaborate on [Matter](https://github.com/project-chip/connectedhomeip)
 - 💬 Ask me about C, C++
 - 👨‍💻 All of my personal projects are available [here](https://github.com/srisham)
 
