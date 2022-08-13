@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Sri Balaji S</h1>
-<h3 align="left">A passionate backend Embedded developer</h3>
+<h3 align="left">A passionate Embedded developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisham&label=Profile%20views&color=0e75b6&style=flat" alt="srisham" /> </p>
 
