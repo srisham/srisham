@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [wizlightcpp](https://github.com/srisham/wizlightcpp)
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning [PrplOS](https://gitlab.com/prpl-foundation/prplos/prplos)
 
 - 👯 I’m looking to collaborate on [matter](https://github.com/project-chip/connectedhomeip)
 
